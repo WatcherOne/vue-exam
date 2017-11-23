@@ -1,10 +1,10 @@
 ### 采用webpack打包工具，运用vue框架做得项目，对其技术加深运用
 
 ```coffeescript
-	name:   webpack/vue
-	author: zhubo
-	email:  286154864@qq.com
-	date:   2017-11-23
+name:   webpack/vue
+author: zhubo
+email:  286154864@qq.com
+date:   2017-11-23
 ```
 > 文件目录结构
 ```javascript
