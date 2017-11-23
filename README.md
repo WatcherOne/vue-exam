@@ -1,3 +1,6 @@
+### 采用webpack打包工具，运用vue框架做得项目，对其技术加深运用
+
+> 文件目录结构
 ```javascript
 ├── dist               // 编译之后输出文件的目录
 ├── src                // 应用逻辑代码存放区域
@@ -14,7 +17,7 @@
 ├── package.json       // 工程配置文件
 └── webpack.config.js  // webpack配置文件
 ```
-
+> webpack的配置
 ```javascript
 npm install --save less
 // less模块的加载器，配合下面css-loader 和 style-loader
