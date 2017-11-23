@@ -1,0 +1,7 @@
+// es6特性 浏览器还没有全部支持，所以babel应运而生，用来将es6代码转成浏览器能识别的
+
+{
+  "presets": ["es2015", "stage-2"],
+  "plugins": ["transform-runtime"],
+  "comments": false   // 指生成的文件不产生注释
+}
