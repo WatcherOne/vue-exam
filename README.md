@@ -1,12 +1,14 @@
 ### 采用webpack打包工具，运用vue框架做得项目，对其技术加深运用
 
+```依赖版本有很大关系导致运行不起来
+
 ```coffeescript
 name:   webpack/vue
 author: zhubo
 email:  286154864@qq.com
 date:   2017-11-23
 ```
-> 文件目录结构
+> 文件目录结构(有所改动)
 ```javascript
 ├── dist               // 编译之后输出文件的目录
 ├── src                // 应用逻辑代码存放区域
