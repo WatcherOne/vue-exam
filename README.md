@@ -1,6 +1,6 @@
 ### 采用webpack打包工具，运用vue框架做得项目，对其技术加深运用
 
-```依赖版本有很大关系导致运行不起来
+依赖版本有很大关系导致运行不起来
 
 ```coffeescript
 name:   webpack/vue
